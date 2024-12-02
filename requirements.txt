@@ -38,7 +38,7 @@ Jinja2==2.11.3
 json5==0.9.5
 jupyter==1.0.0
 jupyter-core==4.6.3
-jupyterlab==2.2.6
+jupyterlab==2.2.10
 pathlib2==2.3.5
 pathtools==0.1.2
 patsy==0.5.1
